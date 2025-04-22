@@ -6636,14 +6636,14 @@ textarea.textarea-lg {
 		margin-top: 24px
 	}
 }
-}
+
 
 @media(min-width:767px) {
 	.desktop *+.thumbnail-classic-button-wrap {
 		margin-top: 10px
 	}
 }
-}
+
 
 .mac-os .thumbnail-classic-button .button {
 	transform: rotate(0.0001deg)
@@ -7310,7 +7310,7 @@ textarea.textarea-lg {
 .footer-payment-icon {
 	text-align: right;
 	display: flex;
-	justify-content: center;
+	justify-content: flex-end;
 	align-items: center;
 }
 
